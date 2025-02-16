@@ -22,8 +22,7 @@
 
 😄 **Pronouns: He/Him**
 
-⚡ Fun fact:  I'm not just a coder, I'm also a hacker. My specialty? Infiltrating the mainframes of major corporations just for fun.
-              I once wrote a virus that brought an entire country's internet infrastructure to its knees. It was just a prank, bro.
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3453210" style='border:none;'></iframe>
 
 <!---
 agastyajxa/agastyajxa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
