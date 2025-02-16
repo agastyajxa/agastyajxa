@@ -20,9 +20,6 @@
 - LinkedIn: [Agastya's LinkedIn](https://www.linkedin.com/in/agastyaj/)
 
 
-😄 **Pronouns: He/Him**
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3453210" style='border:none;'></iframe>
 
 <!---
 agastyajxa/agastyajxa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
