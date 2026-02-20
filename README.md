@@ -1,271 +1,173 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a1a2e,60:6366f1,100:06b6d4&height=300&section=header&text=AGASTYA&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20AI%20Generalist%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Automation%20Engineer%20%E2%9A%A1&descSize=20&descAlignY=55&descColor=06b6d4&stroke=6366f1&strokeWidth=2"/>
+<br/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%A7%A0+Building+Intelligent+Systems+That+Think;%F0%9F%94%97+Orchestrating+AI+Agents+%26+Workflows;%E2%9A%A1+From+Prompt+to+Production+in+Record+Time;%F0%9F%94%A5+Automating+What+Others+Do+Manually" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
 
 <br/>
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=agastya&label=PROFILE+VIEWS&color=6366f1&style=for-the-badge" alt="Profile Views"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20AUTOMATION-06b6d4?style=for-the-badge" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/BASED-INDIA%20🇮🇳-6366f1?style=for-the-badge" />
+```
+ █████   ██████   █████  ███████ ████████ ██    ██  █████ 
+██   ██ ██       ██   ██ ██         ██     ██  ██  ██   ██
+███████ ██   ███ ███████ ███████    ██      ████   ███████
+██   ██ ██    ██ ██   ██      ██    ██       ██    ██   ██
+██   ██  ██████  ██   ██ ███████    ██       ██    ██   ██
+```
+
+<sub>**AI Generalist** · Cloud Ops · Automation Architect</sub>
+
+<br/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=3000&pause=2000&color=888888&center=true&vCenter=true&repeat=true&width=460&height=30&lines=building+systems+that+think%2C+heal%2C+and+ship+themselves" alt="Typing SVG" /></a>
+
+<br/>
+
+---
+
+<br/>
+
+<table>
+<tr>
+<td>
+
+```yaml
+# agastya.yml
+
+role: "AI Generalist"
+location: "India"
+focus:
+  - self-healing infrastructure
+  - ai agent orchestration
+  - prompt-to-production pipelines
+
+currently_building:
+  - autonomous infra platform
+  - multi-agent workflows
+  - crm automation systems
+
+philosophy: >
+  automate everything.
+  ship fast.
+  break nothing.
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<sub>**AI & LLM**</sub>
+<br/><br/>
+<img height="24" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=000" />
+<img height="24" src="https://img.shields.io/badge/LlamaIndex-6B4FBB?style=flat-square&logo=meta&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=000" />
 
 <br/><br/>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-</div>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> `whoami`
-
-```python
-class AIGeneralist:
-    def __init__(self):
-        self.name = "Agastya"
-        self.role = "AI Generalist & Cloud Operations Specialist"
-        self.location = "India 🇮🇳"
-        self.motto = "Automate everything. Ship fast. Break nothing."
-        
-        self.superpower = [
-            "Turning complex infra problems into self-healing systems",
-            "Bridging the gap between AI research and production",
-            "Making LLMs do actual useful work"
-        ]
-    
-    def current_mission(self):
-        return "Building autonomous AI systems that monitor, diagnose, and heal infrastructure — before humans even notice."
-```
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</div>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Arsenal
-
-<div align="center">
-
-### 🧠 AI / ML / LLM Stack
-<br/>
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LlamaIndex-6B4FBB?style=for-the-badge&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=robot&logoColor=white" />
-<img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<sub>**ORCHESTRATION**</sub>
+<br/><br/>
+<img height="24" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/Flowise-4285F4?style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/Dify-1677FF?style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/Pinecone-000?style=flat-square&logo=pinecone&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/Chroma-FF6446?style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/Weaviate-00D1A0?style=flat-square&logo=weaviate&logoColor=000" />
+<img height="24" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=fff" />
 
 <br/><br/>
 
-### 🔗 AI Orchestration & Vector DBs
-<br/>
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
-<img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
-<img src="https://img.shields.io/badge/Flowise-4285F4?style=for-the-badge&logo=googleassistant&logoColor=white" />
-<img src="https://img.shields.io/badge/Dify.AI-1677FF?style=for-the-badge&logo=ant-design&logoColor=white" />
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Weaviate-00D1A0?style=for-the-badge&logo=weaviate&logoColor=black" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<sub>**CLOUD**</sub>
+<br/><br/>
+<img height="24" src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=fff" />
 
 <br/><br/>
 
-### ☁️ Cloud & Infrastructure
-<br/>
-
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<sub>**CODE**</sub>
+<br/><br/>
+<img height="24" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
+<img height="24" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=fff" />
 
 <br/><br/>
 
-### 💻 Dev Stack
-<br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<sub>**OPS**</sub>
+<br/><br/>
+<img height="24" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elastic&logoColor=fff" />
+<img height="24" src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=fff" />
 
 <br/><br/>
 
-### 🛠️ DevOps & Monitoring
-<br/>
-
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
-<img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> What I'm Building
-
-<div align="center">
-
-```
-  ┌─────────────────────────────────────────────────────────────────────┐
-  │                                                                     │
-  │   🩺 SELF-HEALING INFRASTRUCTURE PLATFORM                          │
-  │   ═══════════════════════════════════════                           │
-  │                                                                     │
-  │   An autonomous system that detects anomalies, diagnoses root       │
-  │   causes, and auto-remediates — BEFORE the pager goes off.         │
-  │                                                                     │
-  │   [ Anomaly Detection ] → [ Diagnosis Engine ] → [ Auto-Remediate ]│
-  │                                                                     │
-  │─────────────────────────────────────────────────────────────────────│
-  │                                                                     │
-  │   🤖 AI AGENT WORKFLOWS                                            │
-  │   ═════════════════════                                             │
-  │                                                                     │
-  │   Multi-agent orchestration pipelines that automate complex         │
-  │   enterprise operations — from CRM correlation to infra monitoring. │
-  │                                                                     │
-  │   [ LangChain ] → [ n8n ] → [ Supabase ] → [ Production ]         │
-  │                                                                     │
-  └─────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</div>
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ez4/giphy.gif" width="28"> GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=agastya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=6366f1&text_color=c9d1d9&ring_color=6366f1&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=agastya&hide_border=true&background=0d1117&stroke=21262d&ring=6366f1&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
+---
 
 <br/>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agastya&layout=compact&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=c9d1d9&langs_count=8" />
+<sub>**WHAT I'M BUILDING**</sub>
+
+<br/><br/>
+
+| | |
+|:---|:---|
+| `🩺 self-healing infra` | anomaly detection → diagnosis → auto-remediation |
+| `🤖 agent workflows` | multi-agent pipelines for enterprise automation |
+| `🔄 crm automation` | correlation mismatch detection & resolution |
+| `📡 monitoring` | intelligent alerting across production envs |
 
 <br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=agastya&bg_color=0d1117&color=06b6d4&line=6366f1&point=ffffff&area=true&area_color=6366f180&hide_border=true&custom_title=Contribution%20Graph" />
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=agastya&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</div>
-
-## 🧭 Philosophy
-
-<div align="center">
-
-```
-  ╔══════════════════════════════════════════════════════════════════════╗
-  ║                                                                      ║
-  ║   "The best infrastructure is the one that fixes itself."            ║
-  ║                                                                      ║
-  ║    ⚡ I don't just use AI tools — I build AI systems.               ║
-  ║    ⚡ I don't just monitor infra — I make it self-aware.            ║
-  ║    ⚡ I don't just write code — I architect autonomy.               ║
-  ║                                                                      ║
-  ╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agastya/agastya/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agastya/agastya/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/agastya/agastya/output/github-snake-dark.svg" />
-</picture>
-
-</div>
+---
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</div>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=agastya&show_icons=true&hide_border=true&bg_color=00000000&title_color=888&icon_color=444&text_color=666&ring_color=444&hide_title=true&hide_rank=false&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=agastya&hide_border=true&background=00000000&stroke=222&ring=444&fire=888&currStreakLabel=666&sideLabels=666&currStreakNum=888&sideNums=888&dates=444" />
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Connect With Me
-
-<div align="center">
 <br/>
 
-<a href="https://linkedin.com/in/agastya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+---
+
+<br/>
+
+<a href="https://linkedin.com/in/agastya"><img height="22" src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=fff" /></a>
 &nbsp;
-<a href="https://twitter.com/agastya"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://twitter.com/agastya"><img height="22" src="https://img.shields.io/badge/x-000?style=flat-square&logo=x&logoColor=fff" /></a>
 &nbsp;
-<a href="mailto:agastya@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-&nbsp;
-<a href="https://agastya.dev"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="mailto:agastya@email.com"><img height="22" src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=fff" /></a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20future%20belongs%20to%20those%20who%20build%20the%20agents%20that%20build%20the%20future.&author=Ship%20It" />
+<sub>automate everything · ship fast · break nothing</sub>
 
-<br/>
+<br/><br/>
 
 </div>
-
-<!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6366f1,100:0d1117&height=150&section=footer"/>
