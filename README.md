@@ -24,18 +24,18 @@ stack:
 building:
   - name: self-healing infrastructure
     desc: anomaly detection → diagnosis → auto-remediation
-    
-  - name: ai agent workflows  
-    desc: multi-agent pipelines for enterprise ops
 
-links:
-  linkedin: [agastya](https://www.linkedin.com/in/agastyaj/)
-  email: soon
+  - name: ai agent workflows
+    desc: multi-agent pipelines for enterprise ops
 ```
 
 <div align="center">
 
 <br/>
+
+<a href="https://www.linkedin.com/in/agastyaj/"><img height="18" src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=fff" /></a>
+
+<br/><br/>
 
 <sub>▪ DLTK ▪</sub>
 
