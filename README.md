@@ -27,9 +27,6 @@ building:
     
   - name: ai agent workflows  
     desc: multi-agent pipelines for enterprise ops
-    
-  - name: crm automation
-    desc: correlation mismatch detection & resolution
 
 links:
   linkedin: /in/agastya
@@ -40,7 +37,7 @@ links:
 
 <br/>
 
-<sub>▪ automate everything ▪ ship fast ▪ break nothing ▪</sub>
+<sub>▪ DLTK ▪</sub>
 
 <br/><br/>
 
