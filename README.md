@@ -1,24 +1,28 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:06b6d4&height=220&section=header&text=AGASTYA&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Generalist%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Automation%20Engineer&descSize=18&descAlignY=55&descColor=94a3b8"/>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a1a2e,60:6366f1,100:06b6d4&height=300&section=header&text=AGASTYA&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20AI%20Generalist%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Automation%20Engineer%20%E2%9A%A1&descSize=20&descAlignY=55&descColor=06b6d4&stroke=6366f1&strokeWidth=2"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%A7%A0+Building+Intelligent+Systems+That+Think;%F0%9F%94%97+Orchestrating+AI+Agents+%26+Workflows;%E2%9A%A1+From+Prompt+to+Production+in+Record+Time" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%A7%A0+Building+Intelligent+Systems+That+Think;%F0%9F%94%97+Orchestrating+AI+Agents+%26+Workflows;%E2%9A%A1+From+Prompt+to+Production+in+Record+Time;%F0%9F%94%A5+Automating+What+Others+Do+Manually" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- Profile Views & Socials -->
-<img src="https://komarev.com/ghpvc/?username=agastya&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views"/>
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=agastya&label=PROFILE+VIEWS&color=6366f1&style=for-the-badge" alt="Profile Views"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20AUTOMATION-06b6d4?style=for-the-badge" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/BASED-INDIA%20🇮🇳-6366f1?style=for-the-badge" />
 
 <br/><br/>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 </div>
 
-## 🧬 `whoami`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> `whoami`
 
 ```python
 class AIGeneralist:
@@ -39,10 +43,10 @@ class AIGeneralist:
 ```
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
-## ⚡ Tech Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Arsenal
 
 <div align="center">
 
@@ -64,7 +68,7 @@ class AIGeneralist:
 
 <br/><br/>
 
-### 🔗 AI Orchestration & Automation
+### 🔗 AI Orchestration & Vector DBs
 <br/>
 
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
@@ -132,51 +136,74 @@ class AIGeneralist:
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
-## 🏗️ What I'm Building
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🩺 Self-Healing Infrastructure Platform
-> An autonomous system that detects anomalies, diagnoses root causes, and auto-remediates — **before the pager goes off.**
-> 
-> `Anomaly Detection` → `Diagnosis Engine` → `Automated Remediation`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Agent Workflows
-> Multi-agent orchestration pipelines that automate complex enterprise operations — from CRM correlation to infrastructure monitoring.
->
-> `LangChain` → `n8n` → `Supabase` → `Production`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> What I'm Building
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=agastya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=94a3b8&ring_color=6366f1" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=agastya&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=94a3b8&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" />
+```
+  ┌─────────────────────────────────────────────────────────────────────┐
+  │                                                                     │
+  │   🩺 SELF-HEALING INFRASTRUCTURE PLATFORM                          │
+  │   ═══════════════════════════════════════                           │
+  │                                                                     │
+  │   An autonomous system that detects anomalies, diagnoses root       │
+  │   causes, and auto-remediates — BEFORE the pager goes off.         │
+  │                                                                     │
+  │   [ Anomaly Detection ] → [ Diagnosis Engine ] → [ Auto-Remediate ]│
+  │                                                                     │
+  │─────────────────────────────────────────────────────────────────────│
+  │                                                                     │
+  │   🤖 AI AGENT WORKFLOWS                                            │
+  │   ═════════════════════                                             │
+  │                                                                     │
+  │   Multi-agent orchestration pipelines that automate complex         │
+  │   enterprise operations — from CRM correlation to infra monitoring. │
+  │                                                                     │
+  │   [ LangChain ] → [ n8n ] → [ Supabase ] → [ Production ]         │
+  │                                                                     │
+  └─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</div>
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ez4/giphy.gif" width="28"> GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=agastya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=6366f1&text_color=c9d1d9&ring_color=6366f1&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=agastya&hide_border=true&background=0d1117&stroke=21262d&ring=6366f1&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
 
 <br/>
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=agastya&bg_color=0d1117&color=6366f1&line=06b6d4&point=ffffff&area=true&area_color=6366f1&hide_border=true" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agastya&layout=compact&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=c9d1d9&langs_count=8" />
+
+<br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=agastya&bg_color=0d1117&color=06b6d4&line=6366f1&point=ffffff&area=true&area_color=6366f180&hide_border=true&custom_title=Contribution%20Graph" />
 
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=agastya&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
 ## 🧭 Philosophy
@@ -184,24 +211,24 @@ class AIGeneralist:
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   "The best infrastructure is the one that fixes itself."        ║
-║                                                                  ║
-║   → I don't just use AI tools — I build AI systems.             ║
-║   → I don't just monitor infra — I make it self-aware.          ║
-║   → I don't just write code — I architect autonomy.             ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║                                                                      ║
+  ║   "The best infrastructure is the one that fixes itself."            ║
+  ║                                                                      ║
+  ║    ⚡ I don't just use AI tools — I build AI systems.               ║
+  ║    ⚡ I don't just monitor infra — I make it self-aware.            ║
+  ║    ⚡ I don't just write code — I architect autonomy.               ║
+  ║                                                                      ║
+  ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -216,18 +243,29 @@ class AIGeneralist:
 <br/>
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</div>
 
-### 💬 Let's Connect
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Connect With Me
 
+<div align="center">
 <br/>
 
-<a href="https://www.linkedin.com/in/agastyaj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/agastya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="https://twitter.com/agastya"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:agastya@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<a href="https://agastya.dev"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20future%20belongs%20to%20those%20who%20build%20the%20agents%20that%20build%20the%20future.&author=Ship%20It" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20future%20belongs%20to%20those%20who%20build%20the%20agents%20that%20build%20the%20future.&author=Ship%20It" />
+
+<br/>
 
 </div>
 
 <!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6366f1,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6366f1,100:0d1117&height=150&section=footer"/>
