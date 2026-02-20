@@ -29,8 +29,8 @@ building:
     desc: multi-agent pipelines for enterprise ops
 
 links:
-  linkedin: /in/agastya
-  email: agastya@email.com
+  linkedin: [agastya](https://www.linkedin.com/in/agastyaj/)
+  email: soon
 ```
 
 <div align="center">
