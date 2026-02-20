@@ -1,11 +1,5 @@
 <div align="center">
-
-<br/><br/>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=400&size=15&duration=4000&pause=1500&color=555555&center=true&vCenter=true&repeat=true&width=700&height=30&lines=building+systems+that+think%2C+heal%2C+and+ship+themselves;automate+everything.+ship+fast.+break+nothing." alt="Typing SVG" /></a>
-
-<br/><br/>
-
 </div>
 
 ```yaml
@@ -29,16 +23,7 @@ building:
     desc: multi-agent pipelines for enterprise ops
 ```
 
-<div align="center">
-
-<br/>
-
+<p align="center">
 <a href="https://www.linkedin.com/in/agastyaj/"><img height="18" src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=fff" /></a>
-
-<br/><br/>
-
-<sub>▪ DLTK ▪</sub>
-
-<br/><br/>
-
-</div>
+</p>
+<p align="center"><sub>▪ DLTK ▪</sub></p>
