@@ -1,37 +1,47 @@
 <div align="center">
 
-<br/><br/><br/>
+<br/><br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=400&size=18&duration=4000&pause=1500&color=888888&center=true&vCenter=true&repeat=true&width=550&height=35&lines=building+systems+that+think%2C+heal%2C+and+ship+themselves" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=400&size=15&duration=4000&pause=1500&color=555555&center=true&vCenter=true&repeat=true&width=700&height=30&lines=building+systems+that+think%2C+heal%2C+and+ship+themselves;automate+everything.+ship+fast.+break+nothing." alt="Typing SVG" /></a>
 
-<br/><br/><br/>
+<br/><br/>
 
 </div>
 
 ```yaml
-# agastya.yml
+name: agastya
+role: ai generalist
+location: india
 
-role: "AI Generalist"
-location: "India"
+stack:
+  llm:      [ langchain, openai, anthropic, huggingface, ollama, crewai ]
+  infra:    [ aws, kubernetes, docker, terraform, cloudflare ]
+  data:     [ pinecone, supabase, postgresql, redis ]
+  code:     [ python, typescript, fastapi, next.js ]
+  ops:      [ n8n, grafana, prometheus, datadog, github-actions ]
+  ship:     [ vercel, railway, docker ]
 
-focus:
-  - self-healing infrastructure
-  - ai agent orchestration
-  - prompt-to-production pipelines
+building:
+  - name: self-healing infrastructure
+    desc: anomaly detection → diagnosis → auto-remediation
+    
+  - name: ai agent workflows  
+    desc: multi-agent pipelines for enterprise ops
+    
+  - name: crm automation
+    desc: correlation mismatch detection & resolution
 
-currently_building:
-  - autonomous infra platform
-  - multi-agent workflows
-  - crm automation systems
-
-philosophy: >
-  automate everything.
-  ship fast.
-  break nothing.
+links:
+  linkedin: /in/agastya
+  email: agastya@email.com
 ```
 
 <div align="center">
 
 <br/>
+
+<sub>▪ automate everything ▪ ship fast ▪ break nothing ▪</sub>
+
+<br/><br/>
 
 </div>
